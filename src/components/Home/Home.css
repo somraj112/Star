@@ -621,18 +621,18 @@ body {
 .cta-heading {
     font-size: 2rem;
     font-weight: bold;
-    color: #e0e7ff; /* Light blue for contrast */
+    color: #e0e7ff; 
     margin-bottom: 1rem;
 }
 
 .cta-text {
     font-size: 1.2rem;
-    color: #cbd5e1; /* Softer light blue for text */
+    color: #cbd5e1; 
     margin-bottom: 2rem;
 }
 
 .cta-button {
-    background: #385687; /* Muted blue for the button */
+    background: #385687;
     color: #fff;
     padding: 0.8rem 2rem;
     font-size: 1rem;
@@ -644,7 +644,7 @@ body {
 }
 
 .cta-button:hover {
-    background: #47577b; /* Slightly darker blue on hover */
+    background: #47577b; 
     transform: scale(1.05);
 }
 
